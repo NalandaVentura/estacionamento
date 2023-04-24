@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'app-bcd-nalanda'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C75427DE86F7432E9A2F9747963C339B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_35955FA9D055487B85C6A426143B4C57 }}
           package: .
