@@ -1,10 +1,5 @@
 <?php
-// $servidor = 'app-bcd-nalanda-server';
-// $usuario = 'cdxfrivvxz';
-// $senha = 'U255MRW50776026A$';
-// $dbname = 'app-bcd-nalanda-database';
-
-    $servidor = 'app-bcd-nalanda-server';
+    $servidor = 'app-bcd-nalanda-server.mysql.database.azure.com';
     $usuario = 'cdxfrivvxz';
     $senha = 'U255MRW50776026A$';
     $dbname = 'app-bcd-nalanda-database';
