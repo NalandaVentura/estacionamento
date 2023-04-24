@@ -1,13 +1,13 @@
 <?php
-// $servidor = 'sql202.epizy.com';
-// $usuario = 'epiz_33943789';
-// $senha = 'tN3JLRmxF7wbXK';
-// $dbname = 'epiz_33943789_sparking';
+// $servidor = 'app-bcd-nalanda-server';
+// $usuario = 'cdxfrivvxz';
+// $senha = 'U255MRW50776026A$';
+// $dbname = 'app-bcd-nalanda-database';
 
-    $servidor = 'localhost';
-    $usuario = 'root';
-    $senha = '';
-    $dbname = 'sparking';
+    $servidor = 'app-bcd-nalanda-server';
+    $usuario = 'cdxfrivvxz';
+    $senha = 'U255MRW50776026A$';
+    $dbname = 'app-bcd-nalanda-database';
 
     $conn = mysqli_connect($servidor, $usuario, $senha, $dbname);
 ?>
